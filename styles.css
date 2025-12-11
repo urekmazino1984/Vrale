@@ -453,7 +453,7 @@ main {
 
   .main-nav {
     gap: 0.45rem;
-    font-size: 0.43rem;
+    font-size: 1.45vh;
     letter-spacing: 0.05em;
   }
 
