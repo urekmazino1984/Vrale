@@ -464,3 +464,11 @@ main {
     padding-top: 5rem;
   }
 }
+
+/* Mobile header orientation */
+
+@media (width <= 550px) {
+  .nav-container {
+    flex-direction: column;
+  }
+}
